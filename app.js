@@ -19,7 +19,7 @@ function isPalindrome() {
   if (origin === x) {
     alert("Your birthday is an Palindrome!");
   } else {
-    alert("Bhag madarchod");
+    alert("Sorry man!");
   }
 }
 
